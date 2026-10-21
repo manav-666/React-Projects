@@ -3,3 +3,11 @@
 ::placeholder{
   color: white;
 }
+
+.Note::-webkit-scrollbar{
+  display: none;
+}
+
+.Heading::-webkit-scrollbar{
+  display: none;
+}
